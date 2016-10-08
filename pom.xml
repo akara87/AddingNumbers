@@ -4,7 +4,7 @@
 	<groupId>com.AK</groupId>
 	<artifactId>user-registration</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>User Registration</name>
+	<name>Java fundamental project</name>
 	<description>Basic Java Project which register a user into the system</description>
 
 	<dependencies>
@@ -12,8 +12,9 @@
 			<groupId>junit</groupId>
 			<artifactId>fund-project</artifactId>
 			<version>4.12</version>
-			<name>Java fundamental project</name>
-			<description>Java application which demonstrates fundamental concepts in java</description>
+			
+			
+			
 
 		</dependency>
 		<dependency>

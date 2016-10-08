@@ -10,8 +10,10 @@
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
+			<artifactId>fund-project</artifactId>
 			<version>4.12</version>
+			<name>Java fundamental project</name>
+			<description>Java application which demonstrates fundamental concepts in java</description>
 
 		</dependency>
 		<dependency>

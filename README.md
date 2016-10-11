@@ -1,7 +1,7 @@
 #Java Fundamental Concepts Project
 ##Base Point for Java Applications
 
-* Java Project which covers fundamental concepts of java
+* Java Project which add two numbers
 Java 7
 
 * Maven
@@ -9,5 +9,4 @@ Java 7
 * JUnit
 
 Java Project for SQA Boot Camp October 3.
-
-[Jean-francois Nepton](https://github.com/SQABCOct3)
+https://github.com/akara87
